@@ -1,9 +1,5 @@
 body {
-    background: rgb(125,125,125);
-    background: radial-gradient(circle, rgba(125,125,125,1) 19%, rgba(255,255,255,1) 100%);
-    background-image: url(/img/Qual\ é\ a\ sua\ linguagem\ de\ programação\ favorita_….jpg);
-
-  
+    background-image: url(/myportfolio/img/Qual\ é\ a\ sua\ linguagem\ de\ programação\ favorita_….jpg);
 }
 
 
